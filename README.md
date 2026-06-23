@@ -1,5 +1,9 @@
 # 🚲 Global Bike Retailer — Profitability & Customer Analytics
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bike-store-sales-2iknvtygxykutdufslmnsr.streamlit.app/)
+
+**▶️ Live dashboard:** https://bike-store-sales-2iknvtygxykutdufslmnsr.streamlit.app/
+
 End-to-end analytics on **113,036 sales transactions** for a multinational bike
 retailer (Bikes · Accessories · Clothing across 6 countries). The project pairs a
 fully-reproducible **Jupyter notebook** with an interactive **Streamlit dashboard**,
@@ -106,6 +110,10 @@ artifact — the curve is indicative, not precise.
 
 A 6-tab Streamlit app (Profitability · Customers · Geography · Pricing & Discount ·
 Seasonality · Data Quality) with live filters on country, category, gender and age group.
+
+**🔗 Try it live:** https://bike-store-sales-2iknvtygxykutdufslmnsr.streamlit.app/
+
+Or run it locally:
 
 ```bash
 pip install -r requirements.txt
